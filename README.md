@@ -1,6 +1,9 @@
 Project Description:
+
 project title: 
+
 --> car sales analysis of europe country
+
 --->The project involved analyzing car sales of Europe and maintenance records to identify trends and 
     optimize business strategies. Using Power BI, I created interactive dashboards and reports to visualize the data effectively.
 
